@@ -1,0 +1,41 @@
+{
+  "RedHotChilliPeppers": [
+    {
+      "Album": "Im with You",
+      "Genre": "Funk Rock",
+      "Realse Date": "2011",
+      "Producer": "Rick Rubin",
+      "Coverimg": "withyou.jpg",
+      " Top 4 Song List": [
+        "Ethiopia",
+        "Look Around",
+        "Police Station",
+        "Meet me at the Corner"
+      ],
+      "Summary": "I'm with You is the tenth studio album by the American rock band Red Hot Chili Peppers."
+    },
+    {
+      "Album": "Stadium Arcadium",
+      "Genre": "Funk Rock",
+      "Realse Date": "2006",
+      "Producer": "Rick Rubin",
+      "Coverimg": "stadium.jpg",
+      "Top 4 Song List": ["She's only 18", "Torture me", "Ready Made", "Hey"],
+      "Summary": "Stadium Arcadium is the ninth studio album by American rock band Red Hot Chili Peppers."
+    },
+    {
+      "Album": "Californication",
+      "Genre": "Funk Rock",
+      "Realse Date": "1999",
+      "Producer": "Rick Rubin",
+      "Coverimg": "cc.jpg",
+      "Top 4 Song List": [
+        "Californication",
+        "Otherside",
+        "Right on time",
+        "Arounf the world"
+      ],
+      "Summary": "Californication is the seventh studio album by American rock band Red Hot Chili Peppers."
+    }
+  ]
+}
